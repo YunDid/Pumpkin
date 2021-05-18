@@ -1,0 +1,3 @@
+[submodule "Pumpkin/vendor/spdlog"]
+	path = Pumpkin/vendor/spdlog
+	url = https://github.com/gabime/spdlog

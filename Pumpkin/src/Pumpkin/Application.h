@@ -14,7 +14,7 @@ namespace Pumpkin {
 		void Run();
 	};
 
-	//To be defined in CLIENT
+	//To be defined in CLIE NT
 	Application* CreateApplication();
 
 }
